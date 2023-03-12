@@ -1,0 +1,14 @@
+
+#sec_main_visual .sec_main_visual {height: 100vh; background: center / contain no-repeat; background-image: url('../img/kv_pc.png'); background-size: 1920px 100%;}
+#sec_main_visual .sec_main_visual .mv_txt {position: absolute; top:20%; left: 9%; color:#fff;}
+#sec_main_visual .sec_main_visual .mv_txt .mv_sub_title {position:relative; padding-left:2%; font-size: 22px;}
+#sec_main_visual .sec_main_visual .mv_txt .mv_sub_title::after {position:absolute; top:66%; right: 17%; display: inline-block; content: ''; width: 25%; height: 1px; background-color: #fff;}
+#sec_main_visual .sec_main_visual .mv_txt .mv_title {font-size: 125px; font-weight: 700;}
+
+
+
+
+
+@media screen and (max-width: 680px) {
+
+}
